@@ -12,6 +12,10 @@
   padding: 20px;
 }
 
+.leftMenu{
+  background-color: #00527E;
+}
+
 .bs{
   margin: 0px;
 }
@@ -57,5 +61,23 @@
   background-color: transparent;
   background-position : center center;
   background-repeat:no-repeat;
+}
+
+.btn-label {
+	position: relative;
+	left: -12px;
+	display: inline-block;
+	padding: 6px 12px;
+	background: rgba(0, 0, 0, 0.15);
+	border-radius: 3px 0 0 3px;
+}
+
+.btn-labeled {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+.btn {
+	margin-bottom: 10px;
 }
 
