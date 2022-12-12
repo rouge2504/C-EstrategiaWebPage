@@ -50,6 +50,10 @@
   
 }
 
+.btnGroupMargin{
+  margin-top: 50px;
+}
+
 
 .btnSubmit{
   content: "";
@@ -68,16 +72,20 @@
 	left: -12px;
 	display: inline-block;
 	padding: 6px 12px;
-	background: rgba(0, 0, 0, 0.15);
+	background: rgba(255, 255, 255, 0);
 	border-radius: 3px 0 0 3px;
+  color: #FFFFFF;
 }
 
 .btn-labeled {
-	padding-top: 0;
+  padding-top: 0;
 	padding-bottom: 0;
+  color: #FFFFFF;
+  background-color: #8FBC8F;
 }
 
 .btn {
-	margin-bottom: 10px;
+  margin-bottom: 10px;
 }
+
 
