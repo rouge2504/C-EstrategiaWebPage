@@ -1,0 +1,95 @@
+.labelUp1 {
+  background: #00B4DB;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, #0083B0, #00B4DB);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #0083B0, #00B4DB); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  padding: 20px;
+}
+
+.labelUp2{
+  background: #00B4DB;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #0083B0, #00B4DB);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #0083B0, #00B4DB); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  padding: 20px;
+}
+
+.leftMenu{
+  background-color: #00527E;
+}
+
+.bs{
+  margin: 0px;
+}
+
+.img-2 {
+  position: absolute;
+  width: 300px;
+  top: -80px;
+  left: 150px;
+  transform: translate(-50%, 0%);
+}
+
+.title{
+  margin: 150px;
+}
+
+.inputs{
+  margin-top: 30px;
+}
+
+.inputs2{
+  margin-top: 20px;
+}
+
+
+.inputCer {
+  background-image: url("../Images/IconFile.png");
+}
+
+.btnInImage{
+  background-image: url("../Images/ButtonIn.png");
+  
+}
+
+.btnGroupMargin{
+  margin-top: 50px;
+}
+
+
+.btnSubmit{
+  content: "";
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  margin-right: 5px;
+  vertical-align: middle;
+  background-color: transparent;
+  background-position : center center;
+  background-repeat:no-repeat;
+}
+
+.btn-label {
+	position: relative;
+	left: -12px;
+	display: inline-block;
+	padding: 6px 12px;
+	background: rgba(255, 255, 255, 0);
+	border-radius: 3px 0 0 3px;
+  color: #FFFFFF;
+}
+
+.btn-labeled {
+  padding-top: 0;
+	padding-bottom: 0;
+  color: #FFFFFF;
+  background-color: #8FBC8F;
+}
+
+.btn {
+  margin-bottom: 10px;
+}
+
+
+.formAdminSelector{
+  color: #bf5279; 
+}
+
